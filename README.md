@@ -1,4 +1,6 @@
-this is home task
+this is home task 
+
+responsive page
 
 link: https://linkedin-muaaz.netlify.app
 
